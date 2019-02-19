@@ -1,3 +1,6 @@
+
+![logo-celebrating-10-years](images/logo-celebrating-10-years.jpg)
+
 # 龙途互动 2019 春季社招
 
 ## 公司介绍

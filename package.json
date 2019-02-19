@@ -1,0 +1,11 @@
+{
+  "name": "careers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:dragon-trail-interactive/careers.git",
+  "author": "shrekuu <shrekuu@163.com>",
+  "license": "MIT",
+  "dependencies": {
+    "showdown": "^1.9.0"
+  }
+}

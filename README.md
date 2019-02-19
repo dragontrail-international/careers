@@ -32,8 +32,6 @@
 
 <details><summary><strong>PHP 工程师</strong></summary>
 
-<br/>
-
 > **招聘人数：** 2 &nbsp;&nbsp;&nbsp;&nbsp; **办公室地点：** 西安
 
 **岗位职责：**
@@ -68,8 +66,6 @@
 
 <details><summary><strong>视觉设计</strong></summary>
 
-<br/>
-
 > **招聘人数：** 1 &nbsp;&nbsp;&nbsp;&nbsp; **办公室地点：** 西安
 
 **岗位职责：**
@@ -93,8 +89,6 @@
 </details>
 
 <details><summary><strong>高级 iOS 工程师</strong></summary>
-
-<br/>
 
 > **招聘人数：** 1 &nbsp;&nbsp;&nbsp;&nbsp; **办公室地点：** 西安
 
@@ -124,8 +118,6 @@
 </details>
 
 <details><summary><strong>高级 Andriod 工程师</strong></summary>
-
-<br/>
 
 > **招聘人数：** 1 &nbsp;&nbsp;&nbsp;&nbsp; **办公室地点：** 西安
 
@@ -160,8 +152,6 @@
 
 <details><summary><strong>产品经理</strong></summary>
 
-<br/>
-
 > **招聘人数：** 1 &nbsp;&nbsp;&nbsp;&nbsp; **办公室地点：** 西安
 
 **岗位职责：**
@@ -195,8 +185,6 @@
 
 <details><summary><strong>同业媒体主编/副主编</strong></summary>
 
-<br/>
-
 > **招聘人数：** 1 &nbsp;&nbsp;&nbsp;&nbsp; **办公室地点：** 北京/上海
 
 **岗位职责：**
@@ -222,8 +210,6 @@
 
 <details><summary><strong>同业媒体采编</strong></summary>
 
-<br/>
-
 > **招聘人数：** 1 &nbsp;&nbsp;&nbsp;&nbsp; **办公室地点：** 北京/上海
 
 **岗位职责：**
@@ -246,8 +232,6 @@
 </details>
 
 <details><summary><strong>商务拓展经理</strong></summary>
-
-<br/>
 
 > **招聘人数：** 1 &nbsp;&nbsp;&nbsp;&nbsp; **办公室地点：** 北京
 
@@ -279,8 +263,6 @@
 
 <details><summary><strong>市场研究分析员</strong></summary>
 
-<br/>
-
 > **招聘人数：** 1 &nbsp;&nbsp;&nbsp;&nbsp; **办公室地点：** 北京
 
 **岗位职责：**
@@ -309,8 +291,6 @@
 </details>
 
 <details><summary><strong>市场总监</strong></summary>
-
-<br/>
 
 > **招聘人数：** 1 &nbsp;&nbsp;&nbsp;&nbsp; **办公室地点：** 北京
 
@@ -342,8 +322,6 @@
 
 <details><summary><strong>新媒体营销客户执行</strong></summary>
 
-<br/>
-
 > **招聘人数：** 3 &nbsp;&nbsp;&nbsp;&nbsp; **办公室地点：** 北京、上海、西安
 
 **岗位职责：**
@@ -371,8 +349,6 @@
 </details>
 
 <details><summary><strong>客户经理</strong></summary>
-
-<br/>
 
 > **招聘人数：** 1 **办公室地点：** 北京、西安、上海
 
@@ -404,8 +380,6 @@
 </details>
 
 <details><summary><strong>广告投放经理</strong></summary>
-
-<br/>
 
 > **招聘人数：** 1 &nbsp;&nbsp;&nbsp;&nbsp; **办公室地点：** 北京、西安
 
